@@ -1,0 +1,21 @@
+.mybg {
+    filter: brightness(50%);
+
+
+}
+
+
+.carousel-caption {
+    color: black;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+    bottom: initial;
+
+}
+
+.item {
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
