@@ -18,3 +18,21 @@
     -moz-transform-style: preserve-3d;
     transform-style: preserve-3d;
 }
+
+
+@media only screen and (max-width: 688px) {
+
+    .course {
+
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .company {
+        display: none;
+
+    }
+
+
+
+}
